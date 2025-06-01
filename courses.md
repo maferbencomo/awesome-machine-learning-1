@@ -68,3 +68,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $
 * [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
 * [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [Free AI/ML courses for educators and students](https://www.datacamp.com/universities) 
